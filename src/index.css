@@ -144,7 +144,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 10px 0 15px;
+  padding: 10px 0 10px;
   gap: 15px;
   color: #fff;
 }
@@ -171,7 +171,7 @@ body {
   align-items: center;
   width: 100%;
   justify-content: space-around;
-  padding: 15px 0;
+  padding: 10px 0;
 }
 
 .current-weather .weather-icon {
@@ -208,7 +208,7 @@ body {
 .metric-item {
   border: 1px solid rgba(0, 0, 0, 0.25);
   color: #ddd;
-  padding: 20px;
+  padding: 15px;
   gap: 10px;
   display: flex;
   flex-direction: column;
@@ -257,7 +257,7 @@ body {
 }
 
 .hourly-weather-item .weather-icon {
-  width: 40px;
+  width: 35px;
   aspect-ratio: 1;
 }
 
@@ -265,7 +265,7 @@ body {
 .sunInfo {
   display: flex;
   justify-content: space-between;
-  margin: 0 10px 10px;
+  margin: 0 10px 5px;
   padding: 15px 20px;
   border: 1px solid rgba(0, 0, 0, 0.25);
   color: #ddd;
@@ -305,7 +305,7 @@ body {
 }
 
 .progressBar {
-  height: 20px;
+  height: 10px;
   background: linear-gradient(90deg, #ff8c00, #ffd700, #ff8c00);
   border-radius: 10px;
   transition: width 5s linear;
@@ -317,8 +317,8 @@ body {
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
-  width: 25px;
-  height: 25px;
+  width: 18px;
+  height: 18px;
   background: #fff;
   border-radius: 50%;
   box-shadow: 0 0 15px 5px rgba(255, 203, 60, 0.77);
