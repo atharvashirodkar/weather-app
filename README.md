@@ -79,6 +79,11 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+##  Preview Image
+
+<img width=auto height="480" alt="Screenshot 2025-10-19 151352" src="https://github.com/user-attachments/assets/c2d12876-d654-4e13-986a-5a05c06a1165" />
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
